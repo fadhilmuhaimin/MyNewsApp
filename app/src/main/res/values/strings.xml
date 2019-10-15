@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="example_description">Pembeli Aprilia Shiver 900 bakal dapat aksesori genuine senilai Rp 60 juta. Mulai dari spakbor carbon sampai knalpot Akrapovic, ini syaratnya sob!</string>
+    <string name="judul">Kenalin by.U, Layanan Data Internet yang “Elo Banget” - Uzone</string>
+    <string name="date">2019-10-11T16:22:51</string>
+</resources>
